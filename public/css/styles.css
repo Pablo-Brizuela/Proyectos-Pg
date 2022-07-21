@@ -32,3 +32,8 @@ strong {
     font-size: 30px;
     line-height: 38px;
 }
+
+.parrafo-destacado em {
+    color: red;
+    text-transform: uppercase;
+}
